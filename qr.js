@@ -15,9 +15,9 @@ const { Boom } = require("@hapi/boom");
 const MESSAGE = process.env.MESSAGE ||  `
 *SESSION GENERATED SUCCESSFULY* ✅
 
-_*HELLO RAZA-INC-MD USER*_ 👋 
+_*HELLO MOIZ-MD USER*_ 👋 
 
-*_POWERED BY LEGEND RAZA_*🙂🥂
+*_POWERED BY MOIZ_*🙂🥂
 ___________________________________
 ╔════◇
 ║ _*『 WOW YOU'VE CHOSEN RAZA-INC-MD 』*_
@@ -25,12 +25,12 @@ ___________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  ••• _𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽_ •••
-║❒ _*YOUTUBE:*_ _youtube.com/@INNOXCENTRAZA_
-║❒ *Owner:* _https://wa.me/923280966780_
-║❒ _*Repo:*_ _https://github.com/LEGEND-RAZA/RAZA-INC-MD-V1
+║❒ _*YOUTUBE:*_ _https://youtube.com/@trexmighty?si=nFsIf_e9lOIo-u0N_
+║❒ *Owner:* _https://wa.me/923198493662_
+║❒ _*Repo:*_ _https://github.com/muhammadsaifali123
 ║
 
-║❒ _*WA CHANNEL:*_ _https://whatsapp.com/channel/0029Vb3tkvIJZg48ETQSWN2z_
+║❒ _*WA CHANNEL:*_ https://whatsapp.com/channel/0029Vb7eF2wJf05kbyrlbu3s_
 ║
 ╚════════════════════════╝
 `
